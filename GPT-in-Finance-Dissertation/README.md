@@ -7,4 +7,4 @@ My master's dissertation focusing on how domain-specific GPT models can support 
 - Reviewed real-world use cases and challenges through qualitative research.
 - Mapped findings to regulatory and ethical standards like FCA compliance.
 
-📄 [Click here to view the full report](./Dissertation_Report.pdf)
+📄 [Click here to view the full report](./Dissertation.pdf)
