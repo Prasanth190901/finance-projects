@@ -7,4 +7,3 @@ This empirical research investigates Tesla's (TSLA) stock performance over 2,900
 - Linear regression and GARCH models for long-term pricing trends.
 - Robustness checks and model validation using time-series techniques.
 
-📄 Report will be added shortly.
