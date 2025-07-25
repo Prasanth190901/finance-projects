@@ -7,4 +7,3 @@ A UK-based client investment strategy project focused on long-term capital growt
 - Rebalancing strategy and ESG considerations included.
 - Sector and risk-based diversification using technical and fundamental analysis.
 
-📄 Report will be added shortly.
