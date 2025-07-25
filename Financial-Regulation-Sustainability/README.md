@@ -7,3 +7,4 @@ This project explores key financial regulatory frameworks in the UK such as POCA
 - Greenwashing and ESG disclosure risks under FCA oversight.
 - Practical breakdown of compliance structures in financial institutions.
 
+📄 [Click here to view the full report](./Financial_Regulation_Report.pdf)
