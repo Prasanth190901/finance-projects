@@ -1,1 +1,1 @@
-# finance-projects
+# finance-analytics-projects
